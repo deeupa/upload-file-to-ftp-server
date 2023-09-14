@@ -1,0 +1,15 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.javaartifacts</groupId>
+	<artifactId>upload-file-to-ftp-server</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>Upload file to ftp server using java</name>
+	<description>Upload file to ftp server using java and apache commons net library</description>
+	<dependencies>
+		<dependency>
+			<groupId>commons-net</groupId>
+			<artifactId>commons-net</artifactId>
+			<version>3.9.0</version>
+		</dependency>
+	</dependencies>
+</project>
